@@ -1,39 +1,47 @@
-.header{
-	color: #AFC5D2;
+.head{
+	
 }
 #welcome_page{
 	color: #EBEDFB;
-	border: transparent;
 	padding: 30px 70px 30px 70px;
-	margin: 30px 60px 30px 60px;
+	margin: 30px 60px 30px;
+    display:block;
 }
-.container h1{
+.container 
+
+h1{
 	color: #AFC5D2;
-
 }
-
 
 h2{
 	color: #A5C9A9;
 }
-#information{
+
+#places{
 	color: #A5C9A9;
 	border: solid;
 	padding: 15px 70px 20px 70px;
 	margin: 30px 60px 30px 60px;
 	background-color: transparent;
-
-}
-ul{
-
-
 }
 
 img{
-	width: 365px;
+	width: 320px;
 	border:transparent;
 	box-shadow: 0px 1px 3px;
+	margin-right: 50px;
+
 }
 .big {
 	font-size: 125%;
+}
+#about{
+	color: #EBEDFB;
+	padding: 15px 70px 20px 70px;
+	margin: 30px 60px 30px 60px;
+	background-color: transparent;
+
+}
+
+#coventry{
 }
