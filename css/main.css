@@ -9,12 +9,9 @@ body{
 #welcome_page{
 	min-height: 600px
 	color: #607d8b;
-	padding: 30px 70px 30px 70px;
-	margin: 30px 60px 30px;
     display: block;
     background-color: rgba(0, 150, 136, 0.1);
-    break-after: always;
-
+    padding-bottom: 50px;
 }
 
 
@@ -31,31 +28,27 @@ h2{
 #places{
 	border: hidden;
 	border-color: rgba(3, 169, 244, 0.1);
-	border-width: thick;
 	break-before: always;
-	color: #546e7a;
+	font-color: #546e7a;
 	background-color: rgba(3, 169, 244, 0.1);
+	padding-bottom: 50px
 }
 
 img{
 	width: 320px;
-	border: white;
 	box-shadow: 0px 1px 3px;
 	margin-right: 50px;
-	color: #EBEDFB
 
 }
 
 #campus{
-
-	page-break-inside: always;
-
-	color: #D6A299
-	background-color: rgba(0, 188, 212, 0.1);
+	font-color: #D6A299
+	background-color: rgba(255, 235, 59, 0.1);
+	padding-bottom: 50px
 }
 
 #about{
-	color: rgba(0, 150, 136, 0.1);
+	color:#455a64;
 	padding: 15px 70px 20px 70px;
 	margin: 30px 60px 30px 60px;
 	background-color: transparent;
