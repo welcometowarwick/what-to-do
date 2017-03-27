@@ -1,47 +1,68 @@
-.head{
-	
+body{
+	color: rgba(0, 150, 136, 0.1) rgba-teal-slight;
+
+	background-color: white;
+
+
+
 }
 #welcome_page{
-	color: #EBEDFB;
+	min-height: 600px
+	color: #607d8b;
 	padding: 30px 70px 30px 70px;
 	margin: 30px 60px 30px;
-    display:block;
+    display: block;
+    background-color: rgba(0, 150, 136, 0.1);
+    break-after: always;
+
 }
-.container 
+
 
 h1{
 	color: #AFC5D2;
+
 }
 
 h2{
-	color: #A5C9A9;
+	color: #546e7a;
 }
 
+
 #places{
-	color: #A5C9A9;
-	border: solid;
-	padding: 15px 70px 20px 70px;
-	margin: 30px 60px 30px 60px;
-	background-color: transparent;
+	border: hidden;
+	border-color: rgba(3, 169, 244, 0.1);
+	border-width: thick;
+	break-before: always;
+	color: #546e7a;
+	background-color: rgba(3, 169, 244, 0.1);
 }
 
 img{
 	width: 320px;
-	border:transparent;
+	border: white;
 	box-shadow: 0px 1px 3px;
 	margin-right: 50px;
+	color: #EBEDFB
 
 }
-.big {
-	font-size: 125%;
+
+#campus{
+
+	page-break-inside: always;
+
+	color: #D6A299
+	background-color: rgba(0, 188, 212, 0.1);
 }
+
 #about{
-	color: #EBEDFB;
+	color: rgba(0, 150, 136, 0.1);
 	padding: 15px 70px 20px 70px;
 	margin: 30px 60px 30px 60px;
 	background-color: transparent;
+	background-image: url(uni.jpg);
+	background-position:center;
+	background-size: cover;
+	background-attachment: fixed;
 
-}
 
-#coventry{
 }
