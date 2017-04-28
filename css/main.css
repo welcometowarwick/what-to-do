@@ -1,10 +1,8 @@
-body{
+.body{
 	color: rgba(0, 150, 136, 0.1) rgba-teal-slight;
 	font-family: 'Frank Ruhl Libre', sans-serif;
-
-	background-color: white;
-
-
+	background-color: #3498DB;
+	
 
 }
 .jumbotron{
