@@ -1,11 +1,13 @@
-.body{
+body{
 	color: rgba(0, 150, 136, 0.1) rgba-teal-slight;
 	font-family: 'Frank Ruhl Libre', sans-serif;
-	background-color: #3498DB;
+	background-color: white;
 
 
 }
 .jumbotron{
+	min-height: 50vh;
+	padding-top: 100px;
 	background-image: url("uni.JPG");
 	background-position:center;
 	background-size: cover;
@@ -46,6 +48,10 @@ img{
 	margin-bottom: 20px;
 
 
+}
+
+.translucent-white {
+	background-color: rgba(255,255,255,0.8);
 }
 
 #campus{
