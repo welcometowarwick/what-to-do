@@ -27,8 +27,6 @@ h1{
 
 h2{
 	color: #546e7a;
-	background-color: #3498DB;
-	font-family: 'Frank Ruhl Libre', sans-serif;
 }
 
 
@@ -39,7 +37,6 @@ h2{
 	font-color: #546e7a;
 	background-color: rgba(3, 169, 244, 0.1);
 	padding-bottom: 50px
-	font-family:'Frank Ruhl Libre', sans-serif;
 }
 
 img{
@@ -76,4 +73,7 @@ img{
 
 .custom-font{
 	font-family: 'Nothing You Could Do', cursive;
+}
+.main-custom-font{
+	font-family:'Frank Ruhl Libre', sans-serif;
 }
