@@ -1,7 +1,7 @@
 body{
 	color: rgba(0, 150, 136, 0.1) rgba-teal-slight;
 	font-family: 'Frank Ruhl Libre', sans-serif;
-	background-color: white;
+	background-color: #E1ECF3;
 
 
 }
@@ -37,8 +37,8 @@ h2{
 	border-color: rgba(3, 169, 244, 0.1);
 	break-before: always;
 	font-color: #546e7a;
-	background-color: rgba(3, 169, 244, 0.1);
-	padding-bottom: 50px
+	background-color: #E1ECF3;
+	padding-bottom: 30px;
 }
 
 img{
@@ -71,10 +71,15 @@ img{
 
 }
 
+#transport{
+	background-color: translucent;
+	padding-bottom: 50px;
+
+}
+
 #official{
 	margin: 10px 10px 10px 10px;
-	padding: 50px;
-
+	padding: 15px 70px 20px 70px;
 }
 
 .custom-font{
